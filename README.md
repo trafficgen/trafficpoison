@@ -2,7 +2,7 @@
 
 Aνάλογα το είδος ethernet μπορείτε να αλλάξτε το eth1 σε eth0 
 
-Χρησιμοποιούνται τα εργαλεία ```nemesis,sendip,mausezahn,yersinia,xdotool,hping,nping,idswakeup,stick,snot,rule2alert,sneeze, packeth,epb, scapy , metasploit, bittwist και pfsend```
+Χρησιμοποιούνται τα εργαλεία ```nemesis, sendip, mausezahn, yersinia, xdotool, hping, nping, idswakeup, stick, snot, rule2alert, sneeze, packeth, epb, scapy , metasploit, bittwist και pfsend```
 
 Δεν είναι αναγκαία η εγκατάσταση όλων των παραπάνω.<br>
 Για κάθε εκτέλεση θα πρέπει να έχετε ενεργοποιημένα root privileges.<Br>
