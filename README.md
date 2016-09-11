@@ -1,4 +1,4 @@
-# vulntraffic - Bash script that generates malicious traffic
+# trafficpoison - Bash script that generates malicious traffic
 
 Aνάλογα το είδος ethernet μπορείτε να αλλάξτε το eth1 σε eth0 
 
@@ -10,4 +10,4 @@ Aνάλογα το είδος ethernet μπορείτε να αλλάξτε το
 
 Ενδεχομένως να χρειαστεί να πατάτε Enter στην περίπτωση όπου εμφανίζεται εκτέλεση DOS επίθεσης από το yersinia για να σταματάτε κάθε φορά την επίθεση
 
-Εκτέλεση script: ``` bash vulntraffic.sh```
+Εκτέλεση script: ``` bash trafficpoison.sh```
