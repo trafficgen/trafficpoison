@@ -1,4 +1,4 @@
-# trafficpoison - Bash script that generates malicious traffic
+# trafficpoison - Script that generates malicious traffic
 
 Aνάλογα το είδος ethernet μπορείτε να αλλάξτε το eth1 σε eth0 
 
